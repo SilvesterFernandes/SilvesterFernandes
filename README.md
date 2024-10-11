@@ -128,7 +128,7 @@
 ---
 
 
-[!Silvester's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SilvesterFernandes)](https://github.com/SilvesterFernandes/github-readme-activity-graph)
+[!Silvester's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SilvesterFernandes)](https://github.com/SilvesterFernandes)
 
 ### **Support Me**:
 - **Buy me a coffee**: [Buy Me a Coffee](#)
