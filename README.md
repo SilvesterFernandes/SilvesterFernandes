@@ -1,6 +1,8 @@
 Hi 👋, I'm Silvester Fernandes
+
 A passionate frontend developer from India
 🔭 I’m currently working on:
+
 Project Name: Project Name Link
 👯 I’m looking to collaborate on:
 Project Name: Project Name Link
