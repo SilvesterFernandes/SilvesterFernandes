@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**SilvesterFernandes/SilvesterFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Memory updated
+Here’s a customized GitHub profile README for Silvester Fernandes, incorporating the GitHub stats, activity graph, and profile views counter:
 
-Here are some ideas to get you started:
+Hi 👋, I'm Silvester Fernandes
+A passionate Web Developer, Data Analyst, and Cloud Computing enthusiast from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+🔭 I’m currently working on a Store Sales Dashboard in Power BI.
+🌱 I’m currently learning Data Analysis.
+👯 I’m looking to collaborate on open-source and web development projects.
+🤝 I’m looking for help with Front-end and Back-end development.
+💬 Ask me about HTML, CSS, Data Analysis, and Cloud.
+Connect with Me:
+LinkedIn: Silvester Fernandes
+GitHub: Silvester Fernandes
+Twitter: Silvester Fernandes
+Languages and Tools:
+
+GitHub Stats:
+
+Activity Graph 📈:
+
+Profile Views:
+
