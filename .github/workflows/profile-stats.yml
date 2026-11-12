@@ -11,9 +11,19 @@ permissions:
 
 jobs:
   generate:
+    name: Generate Profile Cards
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Statistics
+      # Step 1: Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      # Step 2: Generate statistics
+      - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -22,3 +32,4 @@ jobs:
           BRANCH_NAME: main
           THEME: tokyonight
           AUTO_PUSH: true
+          UTC_OFFSET: 5.5
