@@ -352,48 +352,6 @@ It also involves developing the ability to:
 ---
 
 
-<!-- GITHUB ANALYTICS -->
-
-<h2 align="center">07 / GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<img
-  width="100%"
-  src="./profile-summary-card-output/tokyonight/profile-details.svg"
-  alt="GitHub Profile Details"
-/>
-
-<br/><br/>
-
-<img
-  width="49%"
-  src="./profile-summary-card-output/tokyonight/stats.svg"
-  alt="GitHub Statistics"
-/>
-
-<img
-  width="49%"
-  src="./profile-summary-card-output/tokyonight/repos-per-language.svg"
-  alt="Repository Languages"
-/>
-
-<br/><br/>
-
-<img
-  width="49%"
-  src="./profile-summary-card-output/tokyonight/most-commit-language.svg"
-  alt="Most Used Languages"
-/>
-
-<img
-  width="49%"
-  src="./profile-summary-card-output/tokyonight/productive-time.svg"
-  alt="Productive Time"
-/>
-
-</div>
-
 ---
 
 <!-- 08 CONNECT -->
