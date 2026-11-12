@@ -1,102 +1,225 @@
-<h1 align="center">Hi 👋, I'm Silvester Fernandes</h1>
-<h3 align="center">Data Science Aspiring | Full Stack Developer | Android Developer</h3>
-<p align="center">Tech enthusiast focused on data science, web, and mobile development. Passionate about learning and contributing to impactful projects.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silvesterfernandes&label=Profile%20views&color=0e75b6&style=flat" alt="silvesterfernandes" /> </p>
+<!-- ===================================================== -->
+<!-- SILVESTER FERNANDES | GITHUB PROFILE README             -->
+<!-- ===================================================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvesterfernandes" alt="silvesterfernandes" /></a> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Silvester+Fernandes+%F0%9F%91%8B;Ideas+into+Code.;Exploring+Technology.;Building+Meaningful+Solutions." alt="Introduction" />
 
-- 🔭 I’m currently working on **Bank Loan Prediction**
-- 🌱 I’m currently learning **Data Science**
-- 📫 How to reach me **silvesterfernandes12@gmail.com**
+  <p>
+    <b>Exploring technology. Building solutions. Learning continuously.</b>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/silvesterfernandes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="silvesterfernandes" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/silvesterfernandes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="silvesterfernandes" height="30" width="40" />
-  </a>
+  <p>
+    <a href="https://github.com/silvesterfernandes">
+      <img src="https://komarev.com/ghpvc/?username=silvesterfernandes&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
+    </a>
+    <a href="https://github.com/silvesterfernandes?tab=followers">
+      <img src="https://img.shields.io/github/followers/silvesterfernandes?style=for-the-badge&color=38BDF8&label=FOLLOWERS" alt="Followers"/>
+    </a>
+  </p>
+
+</div>
+
+---
+
+## 01 / About Me
+
+I enjoy exploring the intersection of software engineering, data, and emerging technologies.
+
+My interests revolve around understanding problems, experimenting with modern tools, and transforming ideas into practical digital solutions.
+
+- Exploring **Data Science, Machine Learning & AI**
+- Building **Web Applications & Digital Experiences**
+- Experimenting with **Android & Mobile Development**
+- Interested in **Databases, Cloud & Software Architecture**
+- Believer in learning through experimentation and building.
+
+---
+
+## 02 / Areas of Interest
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Artificial Intelligence
+
+Exploring data analysis, machine learning algorithms, predictive modelling, and intelligent applications.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Web Technologies
+
+Building modern interfaces, interactive applications, APIs, and full-stack solutions.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Mobile Applications
+
+Exploring Android development, Kotlin, React Native, and mobile application architecture.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Software Engineering
+
+Interested in scalable systems, database design, clean architecture, and problem-solving.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / Selected Work
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🏦 Bank Loan Prediction
+
+Predictive modelling project exploring machine learning approaches for loan approval analysis.
+
+**Exploration areas**
+
+- Data preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Predictive modelling
+
+**Domain:** Data Science & Machine Learning
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>More experiments and projects will be featured here as they evolve.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
+---
+
+## 04 / Technology Ecosystem
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,ts" alt="Programming languages"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvesterfernandes&show_icons=true&locale=en&layout=compact" alt="silvesterfernandes" /></p>
+### Frontend Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvesterfernandes&show_icons=true&locale=en" alt="silvesterfernandes" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,vue" alt="Frontend technologies"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvesterfernandes&" alt="silvesterfernandes" /></p>
+### Backend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,androidstudio,reactnative" alt="Backend and mobile technologies"/>
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,aws,gcp" alt="Databases and cloud technologies"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" alt="Development tools"/>
+</p>
+
+---
+
+## 05 / GitHub Analytics
+
+<div align="center">
+
+  <a href="https://github.com/silvesterfernandes">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=silvesterfernandes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+  </a>
+
+  <a href="https://github.com/silvesterfernandes">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvesterfernandes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  </a>
+
+  <br/>
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=silvesterfernandes&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=silvesterfernandes&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## 06 / How I Build
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <h3>01</h3>
+  <b>Explore</b>
+  <p>Understand the problem and discover possibilities.</p>
+</td>
+<td align="center" width="25%">
+  <h3>02</h3>
+  <b>Experiment</b>
+  <p>Test ideas and learn through implementation.</p>
+</td>
+<td align="center" width="25%">
+  <h3>03</h3>
+  <b>Build</b>
+  <p>Turn concepts into practical solutions.</p>
+</td>
+<td align="center" width="25%">
+  <h3>04</h3>
+  <b>Improve</b>
+  <p>Refine, optimize, and keep learning.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 07 / Let's Connect
+
+<div align="center">
+
+  <a href="mailto:silvesterfernandes12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/silvesterfernandes">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/silvesterfernandes">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://github.com/silvesterfernandes">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=120&section=footer" width="100%" alt="Footer decoration"/>
+
+  <p>
+    <b>Thanks for visiting!</b>
+    <br/>
+    <i>Great things are built one commit at a time.</i>
+  </p>
+
+</div>
+
+<!-- END OF PROFILE README -->
