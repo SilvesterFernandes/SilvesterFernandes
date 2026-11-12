@@ -1,225 +1,243 @@
 
 <!-- ===================================================== -->
-<!-- SILVESTER FERNANDES | GITHUB PROFILE README             -->
+<!-- SILVESTER FERNANDES | PERSONAL GITHUB PORTFOLIO        -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Silvester+Fernandes+%F0%9F%91%8B;Ideas+into+Code.;Exploring+Technology.;Building+Meaningful+Solutions." alt="Introduction" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:171C3A,100:312E81&height=220&section=header&text=Silvester%20Fernandes&fontSize=48&fontColor=F8FAFC&fontAlignY=42&desc=Exploring%20Ideas.%20Engineering%20Possibilities.&descSize=16&descAlignY=65&descColor=C4B5FD" alt="Silvester Fernandes"/>
+
+  <br/>
 
   <p>
-    <b>Exploring technology. Building solutions. Learning continuously.</b>
-  </p>
-
-  <p>
-    <a href="https://github.com/silvesterfernandes">
-      <img src="https://komarev.com/ghpvc/?username=silvesterfernandes&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
+    <a href="mailto:silvesterfernandes12@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-6C63FF?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/silvesterfernandes?tab=followers">
-      <img src="https://img.shields.io/github/followers/silvesterfernandes?style=for-the-badge&color=38BDF8&label=FOLLOWERS" alt="Followers"/>
+      <img src="https://img.shields.io/github/followers/silvesterfernandes?style=flat-square&color=334155&label=FOLLOWERS"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=silvesterfernandes&style=flat-square&color=334155&label=VISITORS"/>
   </p>
 
 </div>
 
----
+<br/>
 
-## 01 / About Me
+# 01 — Introduction
 
-I enjoy exploring the intersection of software engineering, data, and emerging technologies.
+I am passionate about exploring technology and transforming ideas into meaningful digital solutions.
 
-My interests revolve around understanding problems, experimenting with modern tools, and transforming ideas into practical digital solutions.
+My interests span intelligent systems, modern application development, data-driven problem-solving, and emerging technologies.
 
-- Exploring **Data Science, Machine Learning & AI**
-- Building **Web Applications & Digital Experiences**
-- Experimenting with **Android & Mobile Development**
-- Interested in **Databases, Cloud & Software Architecture**
-- Believer in learning through experimentation and building.
+I enjoy understanding how things work, experimenting with new approaches, and building solutions that combine functionality, usability, and thoughtful engineering.
 
----
+<br/>
 
-## 02 / Areas of Interest
+# 02 — Areas of Exploration
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Artificial Intelligence
+### Artificial Intelligence & Data
 
-Exploring data analysis, machine learning algorithms, predictive modelling, and intelligent applications.
+Machine learning, data analysis, predictive modelling, and intelligent applications.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Web Technologies
+### Software Engineering
 
-Building modern interfaces, interactive applications, APIs, and full-stack solutions.
+Application architecture, programming, algorithms, and maintainable software systems.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Mobile Applications
+### Web Technologies
 
-Exploring Android development, Kotlin, React Native, and mobile application architecture.
+Modern interfaces, frontend frameworks, backend services, and API development.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Software Engineering
+### Mobile Technologies
 
-Interested in scalable systems, database design, clean architecture, and problem-solving.
+Android applications, Kotlin, cross-platform development, and mobile experiences.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 03 / Selected Work
+# 03 — Selected Work
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-### 🏦 Bank Loan Prediction
+**01 / MACHINE LEARNING**
 
-Predictive modelling project exploring machine learning approaches for loan approval analysis.
+## Bank Loan Prediction
 
-**Exploration areas**
+An exploration of machine learning techniques for analysing financial data and predicting loan approval outcomes.
 
-- Data preprocessing
-- Exploratory data analysis
+**Technical focus**
+
+- Data preprocessing and preparation
+- Exploratory Data Analysis
 - Feature engineering
 - Predictive modelling
 
-**Domain:** Data Science & Machine Learning
+**Domain:** Data Science · Machine Learning
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <i>More experiments and projects will be featured here as they evolve.</i>
+<p align="right">
+  <sub>More projects will be featured as the portfolio evolves.</sub>
 </p>
 
----
+<br/>
 
-## 04 / Technology Ecosystem
+# 04 — Technical Ecosystem
 
-### Programming Languages
+A curated overview of technologies and tools I explore.
+
+**01 / Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,ts" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,ts&theme=dark" alt="Programming languages"/>
 </p>
 
-### Frontend Development
+**02 / Frontend & Interface Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,vue" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,vue&theme=dark" alt="Frontend technologies"/>
 </p>
 
-### Backend & Mobile
+**03 / Backend & Application Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,androidstudio,reactnative" alt="Backend and mobile technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,androidstudio,reactnative&theme=dark" alt="Backend and mobile development"/>
 </p>
 
-### Databases & Cloud
+**04 / Databases & Cloud Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,aws,gcp" alt="Databases and cloud technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,aws,gcp&theme=dark" alt="Databases and cloud"/>
 </p>
 
-### Development Tools
+**05 / Development Environment & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" alt="Development tools"/>
 </p>
 
----
+<br/>
 
-## 05 / GitHub Analytics
+# 05 — GitHub Insights
 
 <div align="center">
 
   <a href="https://github.com/silvesterfernandes">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=silvesterfernandes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silvesterfernandes&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" alt="GitHub statistics"/>
+  </a><a href="https://github.com/silvesterfernandes">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvesterfernandes&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=94A3B8&langs_count=8" alt="Most used languages"/>
   </a>
-
-  <a href="https://github.com/silvesterfernandes">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvesterfernandes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-  </a>
-
-  <br/>
-
-  <img width="75%" src="https://streak-stats.demolab.com?user=silvesterfernandes&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
 
   <br/><br/>
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=silvesterfernandes&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+  <img width="80%" src="https://streak-stats.demolab.com?user=silvesterfernandes&theme=transparent&hide_border=true&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Contribution streak"/>
+
+  <br/><br/>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=silvesterfernandes&bg_color=00000000&color=94A3B8&line=8B5CF6&point=38BDF8&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
 
 </div>
 
----
+<br/>
 
-## 06 / How I Build
+# 06 — Engineering Principles
 
 <table>
 <tr>
-<td align="center" width="25%">
-  <h3>01</h3>
-  <b>Explore</b>
-  <p>Understand the problem and discover possibilities.</p>
+<td width="25%" align="center">
+
+**01**
+
+Explore
+
+<sub>Stay curious and question assumptions.</sub>
+
 </td>
-<td align="center" width="25%">
-  <h3>02</h3>
-  <b>Experiment</b>
-  <p>Test ideas and learn through implementation.</p>
+<td width="25%" align="center">
+
+**02**
+
+Experiment
+
+<sub>Learn through practical exploration.</sub>
+
 </td>
-<td align="center" width="25%">
-  <h3>03</h3>
-  <b>Build</b>
-  <p>Turn concepts into practical solutions.</p>
+<td width="25%" align="center">
+
+**03**
+
+Engineer
+
+<sub>Build thoughtful, maintainable solutions.</sub>
+
 </td>
-<td align="center" width="25%">
-  <h3>04</h3>
-  <b>Improve</b>
-  <p>Refine, optimize, and keep learning.</p>
+<td width="25%" align="center">
+
+**04**
+
+Evolve
+
+<sub>Improve through continuous learning.</sub>
+
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 07 / Let's Connect
+# 07 — Connect
 
 <div align="center">
 
+  <p>
+    Open to meaningful conversations, technical discussions, and knowledge sharing.
+  </p>
+
   <a href="mailto:silvesterfernandes12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/silvesterfernandes">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/silvesterfernandes">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://github.com/silvesterfernandes">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Explore-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=120&section=footer" width="100%" alt="Footer decoration"/>
+  <a href="https://github.com/silvesterfernandes">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-  <p>
-    <b>Thanks for visiting!</b>
-    <br/>
-    <i>Great things are built one commit at a time.</i>
-  </p>
+  <br/><br/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:0B1020&height=100&section=footer" alt="Footer"/>
+
+  <sub>DESIGNED AROUND CURIOSITY · BUILT THROUGH CODE</sub>
 
 </div>
 
-<!-- END OF PROFILE README -->
+<!-- ===================================================== -->
+<!-- END                                                   -->
+<!-- ===================================================== -->
