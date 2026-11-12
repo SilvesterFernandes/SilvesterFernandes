@@ -351,29 +351,46 @@ It also involves developing the ability to:
 
 ---
 
-<!-- 07 GITHUB ANALYTICS -->
 
-<h2 align="center">07 &nbsp; GITHUB ANALYTICS</h2>
+<!-- GITHUB ANALYTICS -->
+
+<h2 align="center">07 / GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=A+reflection+of+experimentation.;Every+commit+is+part+of+the+journey." alt="GitHub analytics"/>
-
-<br/>
-
-<a href="https://github.com/silvesterfernandes">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=silvesterfernandes&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" alt="GitHub statistics"/>
-</a><a href="https://github.com/silvesterfernandes">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvesterfernandes&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=94A3B8&langs_count=8" alt="Most used languages"/>
-</a>
+<img
+  width="100%"
+  src="./profile-summary-card-output/tokyonight/profile-details.svg"
+  alt="GitHub Profile Details"
+/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=silvesterfernandes&theme=transparent&hide_border=true&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub streak"/>
+<img
+  width="49%"
+  src="./profile-summary-card-output/tokyonight/stats.svg"
+  alt="GitHub Statistics"
+/>
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/tokyonight/repos-per-language.svg"
+  alt="Repository Languages"
+/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=silvesterfernandes&bg_color=00000000&color=94A3B8&line=8B5CF6&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
+<img
+  width="49%"
+  src="./profile-summary-card-output/tokyonight/most-commit-language.svg"
+  alt="Most Used Languages"
+/>
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/tokyonight/productive-time.svg"
+  alt="Productive Time"
+/>
 
 </div>
 
