@@ -350,45 +350,68 @@ It also involves developing the ability to:
 </div>
 
 ---
+
+<!-- ================================================= -->
+<!-- 07 / GITHUB ANALYTICS                             -->
+<!-- ================================================= -->
+
 <h2 align="center">07 / GITHUB ANALYTICS</h2>
 
 <div align="center">
 
+<p>
+  <em>A reflection of exploration, experimentation, and continuous improvement.</em>
+</p>
+
+<!-- PROFILE OVERVIEW -->
 <img
+  src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
   width="100%"
-  src="./profile-summary-card-output/tokyonight/profile-details.svg"
-  alt="GitHub Profile Details"
+  alt="GitHub Profile Overview"
 />
 
 <br/><br/>
 
+<!-- GITHUB STATISTICS -->
 <img
+  src="./profile-summary-card-output/tokyonight/3-stats.svg"
   width="49%"
-  src="./profile-summary-card-output/tokyonight/stats.svg"
   alt="GitHub Statistics"
 />
 
 <img
+  src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
   width="49%"
-  src="./profile-summary-card-output/tokyonight/repos-per-language.svg"
   alt="Repositories per Language"
 />
 
 <br/><br/>
 
+<!-- LANGUAGE ANALYTICS -->
 <img
+  src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
   width="49%"
-  src="./profile-summary-card-output/tokyonight/most-commit-language.svg"
-  alt="Most Used Languages"
+  alt="Most Used Languages by Commits"
 />
 
 <img
+  src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
   width="49%"
-  src="./profile-summary-card-output/tokyonight/productive-time.svg"
   alt="Productive Time"
 />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+*Think deeply. Build intelligently. Keep evolving.*
+
+</div>
+
+<!-- END GITHUB ANALYTICS -->
+
 
 ---
 
